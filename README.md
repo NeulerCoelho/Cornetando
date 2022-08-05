@@ -1,0 +1,10 @@
+# Cornetando
+Trabalho Turma 1MOBRBB - iOS
+
+Membros:
+
+  Jacqueline Carvalho Dias
+  JULIO CESAR DOS SANTOS PEREIRA
+  MAX AURÉLIO ARAÚJO PINHEIRO
+  NEULER COELHO PEREIRA
+  WANDERSON ALAN LEITE SOUZA
